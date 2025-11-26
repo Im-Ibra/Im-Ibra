@@ -7,11 +7,12 @@
 </div>
 
 ## 👩‍💻 About Me
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NtOWxnamlnNTZqYm50ZmQ2NGZoMnp6ZzBocHB5OTV2eW85Z2NwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/msHOya7lshI0rQkOAF/giphy.gif" height="120" align="right"/>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NtOWxnamlnNTZqYm50ZmQ2NGZoMnp6ZzBocHB5OTV2eW85Z2NwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/msHOya7lshI0rQkOAF/giphy.gif" height="100" align="right" />
-
-- 📚 I'm a self-taught programmer (SWE in the making)  
-- ⚡ In my free time I make fun games and read comic books
+- 📚 Self-taught programmer (SWE in the making)
+- 🤖 Love making automation tools
+- 🎮 Develop small games on my free time
+- 💫 Comic book enthusiast 
 
 
 ## 🛠 Languages and Tools
