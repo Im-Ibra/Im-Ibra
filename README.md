@@ -48,8 +48,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Im-Ibra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 ###
